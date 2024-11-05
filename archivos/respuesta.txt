@@ -1,0 +1,1 @@
+No deja hacer un commit de una carpeta vacia, pues no es tomada como  un cambio nuevo
