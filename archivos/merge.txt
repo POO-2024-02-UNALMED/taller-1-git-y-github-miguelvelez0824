@@ -1,0 +1,3 @@
+Al momento de crear una carpeta y esta esta vacia no deja agregar un commit ya que es tomada como si no fuera un cambio.
+Pero al momento de añadir el archivo respuesta.txt y escribir en él, se estan haciendo modificaciones nuevas al repositorio que se habia clonado, por tanto
+ahora git si deja realizar un commit para poder especificar cuales fueron los nuevos cambios  y poder subirlos al repositorio global.
