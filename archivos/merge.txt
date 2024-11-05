@@ -1,0 +1,13 @@
+Al momento de crear una carpeta y esta esta vacia no deja agregar un commit ya que es tomada como si no fuera un cambio.
+Pero al momento de añadir el archivo respuesta.txt y escribir en él, se estan haciendo modificaciones nuevas al repositorio que se habia clonado, por tanto
+ahora git si deja realizar un commit para poder especificar cuales fueron los nuevos cambios  y poder subirlos al repositorio global.
+
+
+Miguel Vélez Bernal
+18
+mis aspiraciones en la materia de programacion orientada a objetos es poder mejorar mis conociminetos en programacion y empezar a aplicarlos
+en proyectos personales
+
+¿Por qué es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones?
+Es importante tener cuidado al momento de realizar cambios a un mimso archivo debido a que al momento de subirlo al repositorio global
+podemos tener conflictos entre las modificaciones, además de no poder ver cuales fueron las modificaciones que se le hizo desde las otras ubicaciones
